@@ -1,6 +1,6 @@
 # Business_Insights_360 Power BI Project
 
-Welcome to the Business Insights 360 Power BI project repository!
+Welcome to my Business Insights 360 Power BI project repository!
 
 ## Overview
 Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive View. This repository houses the project files and documentation. This project, which combines Power BI, SQL, and Excel, centers around addressing operational issues at AtliQ Hardware, a prominent global consumer electronics company. The company's heavy reliance on Excel for data analysis has led to significant losses in some regions. To rectify this, senior management aims to initiate a data analytics project, leveraging data from the previous year to enhance performance and drive improvements.
